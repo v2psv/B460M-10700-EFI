@@ -288,7 +288,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/FakePCIID</string>
 				<key>MaxKernel</key>
@@ -685,7 +685,7 @@
 			<key>PollAppleHotKeys</key>
 			<false/>
 			<key>ShowPicker</key>
-			<true/>
+			<false/>
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
@@ -849,17 +849,17 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02937301J9LNV9UE</string>
+			<string>C02010303QXPHCDCB</string>
 			<key>ROM</key>
 			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>iMac19,1</string>
+			<string>iMac20,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02ZDEZSJV3Q</string>
+			<string>C02CD0WBPN5T</string>
 			<key>SystemUUID</key>
-			<string>8A4BD7D1-99AE-4F1D-B1F9-9B95F925A2D4</string>
+			<string>7BF18750-0ADF-4D07-8A71-ECA25F4B32CE</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
