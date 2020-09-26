@@ -26,6 +26,12 @@
 - icloud, iMessage, photos, etc.
 
 ## What Broken
+- no wifi or bluetooth
+
+## Others
+- "Show Picker" is set to **False** in Misc->Boot.
+- "-v" in "boot-args" is removed.
+
 
 
 ## Kexts
