@@ -6,8 +6,8 @@
 - CPU: 10700
 - Motherboard: MSI B460M Mortar
 - Graphics Card: UHD 630 (iGPU)
-- Monitor: LG 4K 60hz
-- Memory: DDR4 3200MHZ, 16GB x 2
+- Display: LG 4K 60hz
+- Memory: DDR4 3200Mhz, 16GB x 2
 - SSD: WD Black SN750
 
 ## OpenCore Version
@@ -18,7 +18,7 @@
 - Catalina 10.15.7
 
 ## What Works
-- DP and HDMI. (Works fine on my 4K 60hz monitor with DP port)
+- DP and HDMI. (Works fine on my 4K 60hz display with DP port)
 - Audio
 - USB
 - Sleep & Wake up
